@@ -1,0 +1,8 @@
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/_item/cards_item.css);
+@import url(../blocks/cards/_image/cards_image.css);
+@import url(../blocks/cards/_title/cards_title.css);
+@import url(../blocks/cards/_description/cards_description.css);
